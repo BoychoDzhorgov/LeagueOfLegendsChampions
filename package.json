@@ -1,0 +1,19 @@
+{
+  "name": "leagueoflegends_champions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoychoDzhorgov/LeagueOfLegendsChampions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoychoDzhorgov/LeagueOfLegendsChampions/issues"
+  },
+  "homepage": "https://github.com/BoychoDzhorgov/LeagueOfLegendsChampions#readme"
+}
